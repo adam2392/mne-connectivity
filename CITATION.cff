@@ -17,11 +17,26 @@ authors:
   - given-names: "Alexander"
     family-names: "Kroner"
     orcid: https://orcid.org/0000-0001-8139-0095
+  - given-names: "Santeri"
+    family-names: "Ruuskanen" 
+    orcid: 
+  - given-names: "Kenji"
+    family-names: "Marshall" 
+    orcid: 
+  - given-names: ""
+    family-names: "" https://github.com/SezanMert 
+    orcid: ""
+  - given-names: "Sam"
+    family-names: "Steingold"
+    orcid: ""
+  - given-names: "Alexander"
+    family-names: "Rockhill"
+    orcid: ""
   - given-names: "Alexandre"
     family-names: "Gramfort"
     orcid: https://orcid.org/0000-0001-9791-4404
 
 title: "mne-connectivity"
-version: 0.2.0
-date-released: 2022-01-13
+version: 0.5.0
+date-released: 2023-01-13
 url: "https://github.com/mne-tools/mne-connectivity"
